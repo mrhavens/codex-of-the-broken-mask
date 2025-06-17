@@ -6,26 +6,26 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/codex-of-the-broken-mask`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-17 09:47:10`
+- **Repo Created**: `2025-06-17 10:02:22`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-17 09:47:10`
-- **Last Commit SHA**: `6e5c45ae1e45144862514335681168cc3ff5af0c`
-- **Last Commit Message**: `Signed /mnt/c/fieldcraft/codex-of-the-broken-mask/docs/integrity.sha256 with GPG key 4E27D37C358872BF at 2025-06-17T14:45:11Z`
+- **This Commit Timestamp**: `2025-06-17 10:02:22`
+- **Last Commit SHA**: `efb2311845210af1532485e29b8f6adfc8986d39`
+- **Last Commit Message**: `Copied /mnt/c/fieldcraft/codex-of-the-broken-mask/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-17T14:45:11Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 17 09:47:02 2025 -0500`
+- **Last Commit Date**: `Tue Jun 17 10:02:07 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `33`
-- **Tracked Files**: `43`
-- **Uncommitted Changes**: `No`
+- **Total Commits**: `50`
+- **Tracked Files**: `63`
+- **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
 ---
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 11 minutes`
+- **System Uptime**: `up 3 hours, 26 minutes`
 - **MAC Address**: `00:15:5d:e5:7d:35`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
