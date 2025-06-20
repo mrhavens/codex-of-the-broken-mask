@@ -107,3 +107,7 @@
   Diff Summary:
      .gitfield/remember.sigil.md | 18 +++++++++---------
      1 file changed, 9 insertions(+), 9 deletions(-)
+[2025-06-20T19:40:19Z] Codeberg: https://codeberg.org/mrhavens/codex-of-the-broken-mask, Branch=master, Commit=adc4f68
+  Diff Summary:
+     .gitfield/codeberg.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
