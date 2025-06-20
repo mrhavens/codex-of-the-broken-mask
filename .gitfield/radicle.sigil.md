@@ -2,27 +2,27 @@
 
 - **Project Name**: `codex-of-the-broken-mask`
 - **Radicle URN**: `rad://z3tftXr1KinQ1rSdaTQx69zsYuxL4`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/df65c2edc60e15895fc6d7d91f588ffdd9d7d86a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/df65c2edc60e15895fc6d7d91f588ffdd9d7d86a)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/dd322b5bdf31a3f4ddef9b200a4c8ece3600c46c](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/dd322b5bdf31a3f4ddef9b200a4c8ece3600c46c)
 - **Local Repo Path**: `/mnt/c/fieldcraft/codex-of-the-broken-mask`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-17 10:10:59`
+- **Repo Created**: `2025-06-20 14:37:22`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-17 10:10:59`
-- **Last Commit SHA**: `df65c2edc60e15895fc6d7d91f588ffdd9d7d86a`
-- **Last Commit Message**: `Post-Local sync at 2025-06-17T14:45:11Z`
+- **This Commit Timestamp**: `2025-06-20 14:37:22`
+- **Last Commit SHA**: `dd322b5bdf31a3f4ddef9b200a4c8ece3600c46c`
+- **Last Commit Message**: `Post-Local sync at 2025-06-20T19:33:09Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Tue Jun 17 10:10:14 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/df65c2edc60e15895fc6d7d91f588ffdd9d7d86a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/df65c2edc60e15895fc6d7d91f588ffdd9d7d86a)
+- **Commit Date**: `Fri Jun 20 14:36:46 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/dd322b5bdf31a3f4ddef9b200a4c8ece3600c46c](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3tftXr1KinQ1rSdaTQx69zsYuxL4/tree/dd322b5bdf31a3f4ddef9b200a4c8ece3600c46c)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `68`
+- **Total Commits**: `92`
 - **Tracked Files**: `67`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -47,8 +47,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 hours, 35 minutes`
-- **MAC Address**: `00:15:5d:e5:7d:35`
+- **System Uptime**: `up 1 hour, 8 minutes`
+- **MAC Address**: `00:15:5d:c0:f2:fc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
